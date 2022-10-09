@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.synectiks.security.junit.controllers.PermissionControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.377 sec - in com.synectiks.security.junit.controllers.PermissionControllerTest
